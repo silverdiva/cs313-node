@@ -1,0 +1,22 @@
+{
+  "name": "kims_node",
+  "version": "1.0.0",
+  "description": "Kims Node Dev Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"Hello Kimberly, welcome to your node.js test environment!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silverdiva/cs313-node.git"
+  },
+  "author": "Kimberly Llanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silverdiva/cs313-node/issues"
+  },
+  "homepage": "https://github.com/silverdiva/cs313-node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

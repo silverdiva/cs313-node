@@ -1,0 +1,15 @@
+{
+  "name": "09-preparation",
+  "version": "1.0.0",
+  "description": "Express demo application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kim Llanos",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
